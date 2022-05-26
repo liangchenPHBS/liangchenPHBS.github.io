@@ -2,7 +2,7 @@
 ## Hello World
 
 ## Education
-- 2007 -- 2013：PhD in Economics, Universidad Carlos III de Madrid
+- 2007 -- 2013: PhD in Economics, Universidad Carlos III de Madrid
 - 2003 -- 2007: BS in Economics, Huazhong University of Science and Technology
 
 
