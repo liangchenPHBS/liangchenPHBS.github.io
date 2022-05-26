@@ -1,4 +1,10 @@
-## Welcome to GitHub Pages
+
+## Hello World
+
+## Education
+- 2007 -- 2013：PhD in Economics, Universidad Carlos III de Madrid
+- 2003 -- 2007: BS in Economics, Huazhong University of Science and Technology
+
 
 You can use the [editor on GitHub](https://github.com/liangchenPHBS/liangchenPHBS.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
